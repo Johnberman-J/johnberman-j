@@ -1,4 +1,4 @@
-## <div align="center"> Welcome to Johnberman-J's Github! 👋👋👋 </div>
+# <div align="center"> Welcome to Johnberman-J's Github! 👋👋👋 </div>
 <div align="center"> Hi there! I'm SeongJin Lee, Junior BackEnd-Developer </div>
 <br>
 <div align="center"> To infinity and Beyond 🚀 </div>

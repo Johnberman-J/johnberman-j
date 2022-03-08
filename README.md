@@ -1,7 +1,7 @@
-# <div align="center"> Welcome to Johnberman-J's Github! 👋👋👋 </div>
+# <div align="center"> Welcome to Johnberman-J's Github! 👋 </div>
 <br>
 
-### <div align="center"> Hi there! I'm SeongJin Lee, Junior BackEnd-Developer </div>
+### <div align="center"> Hi there! I'm SeongJin Lee, Junior BackEnd-Developer 🙇 </div>
 <br>
 <div align="center"> To infinity and Beyond 🚀 </div>
 <div align="center"> Not afraid to face an Error 😱🤯🧐 </div>
@@ -18,7 +18,7 @@
 <br><br>
 
 ## <div align="center"> 📧 Contact </div>
-<div align="center"><a href="mailto:babo318@gmail.com"><img src="https://img.shields.io/badge/babo318@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=black"/></a> <a href="https://velog.io/@johnberman-j" target="_blank"><img src="https://img.shields.io/badge/Velog-FF5722?style=plastic&logo=Blogger&logoColor=black"/></a></div>
+<div align="center"><a href="mailto:babo318@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=plastic&logo=Gmail&logoColor=black"/></a> <a href="https://velog.io/@johnberman-j" target="_blank"><img src="https://img.shields.io/badge/Tech--Blog-FF5722?style=plastic&logo=Blogger&logoColor=black"/></a></div>
 
 
 

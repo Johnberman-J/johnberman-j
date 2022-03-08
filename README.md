@@ -13,7 +13,7 @@
 </div>
 
 ## Contact
-<div align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/E--mail-EA4335?style=plastic&logo=Gmail&logoColor=black"/></a> <a href="https://velog.io/@johnberman-j" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=plastic&logo=Blogger&logoColor=black"/></a></div>
+<div align="center"><a href="babo318@gmail.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-EA4335?style=plastic&logo=Gmail&logoColor=black"/></a> <a href="https://velog.io/@johnberman-j" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=plastic&logo=Blogger&logoColor=black"/></a></div>
 
 
 

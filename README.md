@@ -14,7 +14,7 @@
 <br><br>
 
 ## <div align="center"> 📧 Contact </div>
-<div align="center"><img src="https://img.shields.io/badge/babo318@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=black"/></a> <a href="https://velog.io/@johnberman-j" target="_blank"><img src="https://img.shields.io/badge/Velog-FF5722?style=plastic&logo=Blogger&logoColor=black"/></a></div>
+<div align="center"><a href="mailto:babo318@gmail.com"><img src="https://img.shields.io/badge/babo318@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=black"/></a> <a href="https://velog.io/@johnberman-j" target="_blank"><img src="https://img.shields.io/badge/Velog-FF5722?style=plastic&logo=Blogger&logoColor=black"/></a></div>
 
 
 

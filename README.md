@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=black"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=black"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=black"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=black"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=black"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=black"/>
 </div>
 <br><br>
 

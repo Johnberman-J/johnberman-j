@@ -1,7 +1,7 @@
 # <div align="center"> Welcome to Johnberman-J's Github! 👋 </div>
 <br>
 
-### <div align="center"> Hi there! I'm SeongJin Lee, Junior BackEnd-Developer 🙇 </div>
+### <div align="center"> Hi there! I'm SeongJin Lee, Junior Developer 🙇 </div>
 <br>
 <div align="center"> To infinity and Beyond 🚀 </div>
 <div align="center"> Not afraid to face an Error 😱🤯🧐 </div>

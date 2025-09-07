@@ -1,4 +1,5 @@
 # <div align="center"> Welcome to Johnberman-J's Github! 👋 </div>
+<!--
 <br>
 
 ### <div align="center"> Hi there! I'm SeongJin Lee, Junior Developer 🙇 </div>
@@ -23,6 +24,7 @@
 ## <div align="center"> 📧 Contact </div>
 <div align="center"><a href="mailto:babo318@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=plastic&logo=Gmail&logoColor=black"/></a> <a href="https://velog.io/@johnberman-j" target="_blank"><img src="https://img.shields.io/badge/Tech--Blog-FF5722?style=plastic&logo=Blogger&logoColor=black"/></a></div>
 
+--!>
 
 
 <!--
